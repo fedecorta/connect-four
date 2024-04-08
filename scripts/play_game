@@ -1,0 +1,5 @@
+require '../lib/connect'
+
+board = Board.new
+board.play_game
+
